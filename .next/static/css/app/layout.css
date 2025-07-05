@@ -966,6 +966,9 @@ video {
 .h-svh {
   height: 100svh;
 }
+.h-1 {
+  height: 0.25rem;
+}
 .max-h-96 {
   max-height: 24rem;
 }
@@ -1535,6 +1538,10 @@ video {
 .bg-yellow-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(234 179 8 / var(--tw-bg-opacity, 1));
+}
+.bg-gray-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 250 251 / var(--tw-bg-opacity, 1));
 }
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
